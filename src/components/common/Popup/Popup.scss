@@ -1,0 +1,15 @@
+#popup {
+  width: 300px;
+  padding: 10px;
+  background-color: tomato;
+  border-radius: 5px;
+  border: 1px solid tomato;
+  position: absolute;
+  div {
+    display: flex;
+    justify-content: center;
+    button {
+      cursor: pointer;
+    }
+  }
+}
